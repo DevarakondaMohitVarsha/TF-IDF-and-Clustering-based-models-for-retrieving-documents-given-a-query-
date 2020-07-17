@@ -1,0 +1,80 @@
+evidence aspirin help prevent cancer
+0.0 0.0
+0.1 0.3333333333333333
+0.06666666666666667 0.3333333333333333
+708
+4
+
+
+restrictions placed older persons renewing drivers licenses
+0.0 0.0
+0.0 0.0
+0.0 0.0
+561
+2
+
+
+revelations whistle blowers concerning department defense
+0.0 0.0
+0.0 0.0
+0.06666666666666667 0.3333333333333333
+721
+4
+
+
+organization habitat humanity activities involved
+0.0 0.0
+0.0 0.0
+0.0 0.0
+708
+0
+
+
+control oversight computer public libraries
+0.0 0.0
+0.0 0.0
+0.06666666666666667 0.3333333333333333
+817
+3
+
+
+history location scottish highland games united states
+0.0 0.0
+0.0 0.0
+0.0 0.0
+866
+2
+
+
+magnet schools considered successful districts created
+0.0 0.0
+0.0 0.0
+0.0 0.0
+649
+0
+
+
+impact volcano eruptions global temperature
+0.0 0.0
+0.0 0.0
+0.0 0.0
+478
+1
+
+
+known culture history chaco people features chaco culture national historic park
+0.0 0.0
+0.0 0.0
+0.06666666666666667 0.3333333333333333
+947
+3
+
+
+level wages paid illegal immigrants
+0.0 0.0
+0.0 0.0
+0.0 0.0
+603
+0
+
+
